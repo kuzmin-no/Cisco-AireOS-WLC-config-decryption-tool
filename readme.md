@@ -12,7 +12,7 @@ The idea and AES key was taken from this article:
 Obtaining Passwords from Cisco Wireless LAN Controllers (Ryansecurity, 16.05.2014)
 https://herrymorison.tistory.com/entry/Obtaining-Passwords-from-Cisco-Wireless-LAN-Controllers
 
-The PSK hex from the tool output can be added manually to then new configuration file, CLI or via WebGUI:
+The PSK hex from the tool output can be added manually to the new configuration file, CLI or via WebGUI:
 
 ```
 wlan <WLAN profile name> <WLAN ID> <SSID>
